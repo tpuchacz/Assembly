@@ -1,5 +1,4 @@
-	 ORG 800H  
-;Wykonal Tomasz Puchacz - Grupa D7  
+	 ORG 800H   
 	 MVI B,6  
 	 MVI D,2  
 	 MVI E,1  
